@@ -2,4 +2,4 @@
 exploração do streamlit
 
 Meu primeiro sistema no git.
-Repositório paenas para testes diversos
+Repositório apenas para testes diversos
